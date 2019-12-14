@@ -1,0 +1,3 @@
+[submodule "submodules/assimp"]
+	path = submodules/assimp
+	url = ../../assimp.git
